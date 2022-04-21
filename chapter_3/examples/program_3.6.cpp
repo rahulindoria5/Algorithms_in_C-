@@ -1,5 +1,6 @@
-#include <iostream>
-using namespace std;
+/*
+finding prime numbers in N numbers another way
+*/
 
 #include <iostream>
 using namespace std;

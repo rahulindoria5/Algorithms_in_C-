@@ -1,3 +1,7 @@
+/*
+finding prime numbers in N numbers
+*/
+
 #include <iostream>
 using namespace std;
 
